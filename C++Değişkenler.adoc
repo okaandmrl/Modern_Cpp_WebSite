@@ -209,7 +209,7 @@ int main()
 
 Yukarıdaki örnekte pi sayısnı sabit olarak tanımladık ve dairenin yarıçapını belirledik. Daha sonra bu belirlediğimiz değerler eşliğinde dairenin alanı hesaplanıp ekrana yazdırdık. Programın çıktısı şu şekildedir:
 
- http://firateski.com/wp-content/uploads/2015/11/sabit-degisken.bmp
+http://firateski.com/wp-content/uploads/2015/11/sabit-degisken.bmp
 
 
 ==== Auto Deyimi

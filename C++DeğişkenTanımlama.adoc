@@ -34,6 +34,4 @@ Daha önce yazdığımız "merhaba dünya" programı hariç hemen hemen tüm pro
 
 * char harf='a'; Doğru
 
-IMPORTANT: 
-
-C++ küçük ve büyük harf ayrımı yapar. Bu nedenle double pi; ve double PI; farklı değişkenleri ifade eder.
+IMPORTANT:C++ küçük ve büyük harf ayrımı yapar. Bu nedenle double pi; ve double PI; farklı değişkenleri ifade eder.
